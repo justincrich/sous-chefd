@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "name":"Sous Chef'd",
+    "slug":"sous-chefd",
+    "platforms":["ios", "android"],
+    "android":{
+      "package":"com.chefd.souschefd"
+    },
+    "orientation":"portrait"
+  }
+}

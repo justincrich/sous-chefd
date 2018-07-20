@@ -1,0 +1,68 @@
+{
+    "chicken":{
+        "title": "20 Clove Garlic Chicken",
+        "store": [
+           {
+              "name": "Gelson's",
+              "upc": 818242020409
+           },
+           {
+              "name": "Costco",
+              "upc": 818242020546
+           }
+        ],
+        "images": [
+           "https://drive.google.com/uc?export=view&id=1U4zpai-B8DhP5ywkYfLWNsciaHVq3Nt4",
+           "https://drive.google.com/uc?export=view&id=1BNvRoN0q_1rCT2rYK3KXgbXvpra0P3I2",
+           "https://drive.google.com/uc?export=view&id=1BO--oJZwBCCPeUcM2Lj8NgXVQjSoklEz"
+        ],
+        "recommendations":{
+          "bevrage":[
+              {
+                "title":"Dasani Water",
+                "image":"http://www.homedepot.com/catalog/productImages/1000/21/2166329b-bd7a-4323-b3ca-af14730859dc_1000.jpg",
+                "partner": "Gelson's"
+              }
+          ],
+          "dessert":[
+              {
+                  "title":"Chocolate Mousse",
+                  "image":"https://images-gmi-pmc.edge-generalmills.com/fe558022-4544-458f-aaa0-eda0de1bcf99.jpg",
+                  "partner":"Gelson's"
+              }
+          ]
+      }
+     },
+      "beef":{
+        "title": "Black Truffle Butter Sirloin Steaks with Parmesan Mashed Potatoes",
+        "store": [
+           {
+              "name": "Costco",
+              "upc": 818242020379
+           }
+        ],
+        "images": [
+           "https://drive.google.com/uc?export=view&id=1zpvjAsd1BCT6G61sCaJwuL9iy4mA02ae",
+           "https://drive.google.com/uc?export=view&id=1JZ_OpTyancA1RdChjY3qpaRPtl-JHWQc",
+           "https://drive.google.com/uc?export=view&id=1GzSOINtEJJuF6KUsewg3QrM97R3b36QE"
+        ],
+        "recommendations":{
+            
+          "bevrage":[
+              {
+                "title":"Ginger Lime Diet Coke",
+                "image":"https://www.target.com/p/diet-coke-ginger-lime-12-fl-oz-sleek-can/-/A-53036978",
+                "partner": "Costco"
+              }
+          ],
+          "dessert":[
+              {
+                  "title":"Apple Pie",
+                  "image":"https://www.landolakes.com/recipe/16800/blue-ribbon-apple-pie/",
+                  "partner":"Costco"
+              }
+          ]
+      }
+     
+     }
+}

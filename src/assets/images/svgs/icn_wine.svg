@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="39px" viewBox="0 0 26 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_wine</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="3.0_Shop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="M_3.2b_ProductDetail_Nutrition" transform="translate(-75.000000, -988.000000)">
+            <g id="bar" transform="translate(76.000000, 989.000000)">
+                <g id="icn_wine">
+                    <path d="M12,36.7179487 L12,26.6666667" id="Shape" stroke="#393939" stroke-width="1.5"></path>
+                    <path d="M2,36.9230769 L22,36.9230769" id="Shape" stroke="#393939" stroke-width="1.5"></path>
+                    <path d="M12,26.6666667 L12,26.6666667 C5.4,26.6666667 0,20.7179487 0,14.3589744 C0,8 2,0 2,0 L22,0 C22,0 24,7.58974359 24,14.3589744 C24,21.1282051 18.6,26.6666667 12,26.6666667 L12,26.6666667 Z" id="Shape" stroke="#393939" stroke-width="1.5"></path>
+                    <path d="M11.2830811,26.6666667 C6.39440918,26.6666667 -0.181762695,20.3101807 0.0173339844,14.2363281 L0.0173339844,10.3333333 L23.5,10.3333333 L23.5,15.2705078 C23.5,20.4224854 18.7,26.6666667 12.8333333,26.6666667 L11.2830811,26.6666667 Z" id="Shape" fill="#393939"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
